@@ -10,4 +10,6 @@
     <string name="calculate">Calculate</string>
     <string name="reset">Reset</string>
     <string name="error">Input required</string>
+    <string name="error_loan">Loan period must be within 0 and 9</string>
+    <string name="error_interest_rate">Interest rate cannot be larger than car price</string>
 </resources>
